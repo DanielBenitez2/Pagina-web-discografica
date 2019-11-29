@@ -1,0 +1,37 @@
+*{
+    color: white;
+
+}
+
+footer{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode',
+    'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: rgb(44, 44, 56);
+    right: 0;
+    left: 0;
+    text-align: center;
+    display: block;
+    
+    
+}
+
+.socialmedia{
+    margin-top: 0;
+}
+
+
+
+footer img{
+    width: 150px;
+    height: 150px;
+}
+
+.footerlist{
+    margin-bottom: 0;
+}
+
+
+.footerlist a{
+    text-decoration: none;
+}
+

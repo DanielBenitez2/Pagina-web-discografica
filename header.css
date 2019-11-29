@@ -1,0 +1,96 @@
+body{
+    background-color: rgb(19, 19, 19);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode',
+    'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: white;
+    list-style: none;
+    text-transform: none;
+}
+header{
+    position: absolute sticky;
+    margin-bottom: 0px;
+    display: flex;
+}
+
+.logopetit{
+    margin-bottom: 50px;
+    margin-top: 50px;
+    height: 60px;
+    width: 60px;
+    margin-left: 50px;
+}
+
+.menu{
+    
+    border-style: solid;
+    border-color: aliceblue;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 60px;
+    padding-bottom: 10px;
+    height: 30px;
+    
+    
+    font-style: normal;
+    
+}
+
+.menu li{
+    padding-left: 0px;
+    padding-right: 80px;
+    padding-bottom: 0px;
+    padding-top: 10px;
+    margin-top: 0px;
+    
+}
+
+.menu a{
+    text-decoration: none;
+    color: aliceblue;
+}
+
+.menu a:hover{
+    color: rgb(44, 44, 56);
+}
+
+
+
+.icones img{
+    
+    margin-bottom: 10px;
+    padding: 20px;
+    
+    margin-top: 50px;
+    
+    
+}
+
+
+.logogran{
+    height: 100px;
+    width: 100px;
+    /* per centrar imatge */
+    display: block;
+    margin-left: auto;
+    margin-right: auto;   
+}
+
+h1{
+    margin-left: 550px;
+    margin-right: auto;
+}
+
+#language, #profile{
+    height: 25px;
+    width: 25px;
+    display: flex;
+}
+.menu{
+    color: rgb(46, 46, 46);
+
+}
+li{
+    display: inline-block;
+    margin: 10px;
+    /*text-decoration-style: none;*/
+}

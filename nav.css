@@ -1,0 +1,30 @@
+*{
+    height: auto;
+    width: auto;
+}
+
+nav{
+    display: flex;
+    margin-top: 30px;
+    
+}
+
+nav p{
+    border-color: aliceblue;
+    border-style: solid;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 50px;
+    margin-left: 150px;
+    padding-right: 750px;
+    margin-right: 60px;
+    
+    
+}
+
+nav .path{
+    border-style: solid;
+    border-color: aliceblue;
+    padding-right: 40px;
+
+}
